@@ -1,0 +1,13 @@
+# esta linha é um comentario
+
+# posso ignorar um arquivo em particular 
+
+# arquivo.lib
+
+# posso ignorar um conjunto de arquivos 
+
+# *.lib
+
+# posso ignorar uma pasta inteira 
+
+biblioteca/
